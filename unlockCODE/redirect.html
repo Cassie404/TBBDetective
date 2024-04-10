@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>TBB Detective Menu</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <style>
+    body {
+      background-color: #866255;
+    }
+
+    #main {
+      background-image: url('incode.jpg');
+      background-size: contain;
+      background-position-x: center;
+      background-repeat: no-repeat;
+      width: 100%;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+    }
+
+    #main div {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-items: center;
+    }
+
+    textarea {
+      font-size: xx-large;
+      min-height: 30vh;
+    }
+
+    button {
+      width: 130px;
+      height: 40px;
+      color: #ffffff;
+      border-radius: 5px;
+      padding: 10px 25px;
+      font-weight: bolder;
+      background: #deaf5f;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      position: relative;
+      display: inline-block;
+      box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, .5),
+        7px 7px 20px 0px rgba(0, 0, 0, .1),
+        4px 4px 5px 0px rgba(0, 0, 0, .1);
+      outline: none;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id="main">
+    <div></div>
+    <textarea id="code"></textarea>
+    <div>-<button id="submit">Submit</button></div>
+  </div>
+
+</body>
+<script src="code.js"></script>
+</html>
