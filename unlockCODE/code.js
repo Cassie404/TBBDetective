@@ -5,7 +5,7 @@ var submit = document.getElementById('submit');
 submit.onclick = function () {
     switch (Acode.value.toLowerCase().trim()) {
         case 'gotoisekai':
-            
+            window.location.href = ("https://cassie404.github.io/tbbdetective.github.io/Day1/index.html");
             break;
         case 'w0rlds':
             
