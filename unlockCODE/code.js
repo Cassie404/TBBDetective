@@ -6,6 +6,7 @@ submit.onclick = function () {
     switch (Acode.value.toLowerCase().trim()) {
         case 'gotoisekai':
             window.location.href = ("https://cassie404.github.io/tbbdetective.github.io/Day1/index.html");
+            alert("Day1");
             break;
         case 'w0rlds':
             
