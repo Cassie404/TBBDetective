@@ -9,7 +9,8 @@ submit.onclick = function () {
             alert("Day1");
             break;
         case 'w0rlds':
-            
+            location.replace("https://cassie404.github.io/tbbdetective.github.io/isekaiDay2/index.html");
+            alert("Day2");
             break;
         case 'gr1mmr':
 
