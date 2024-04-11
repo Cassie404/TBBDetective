@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{12F105EF-5CFB-47EE-8D51-6FF9DBEDE1B9}'];loadHandler&&loadHandler(0, '<div id="spr0_2619151f"><div id="spr1_2619151f" class="kern slide"><img id="img1_2619151f" src="data/img1.png" width="1440px" height="810px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_2619151f" class="kern slide"><div id="spr3_2619151f" aria-label="一張含有 文字, 花, 藝術, 象牙 的圖片\
+\
+自動產生的描述" role="group" style="left:0.09px;top:0.051px;"><div id="spr4_2619151f"><img id="img0_2619151f" src="data/img0.jpg" width="1440" height="810" alt="" style="left:-0.09px;top:-0.051px;"/></div></div></div></div>', '{"s":[]}');})();

@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{12F105EF-5CFB-47EE-8D51-6FF9DBEDE1B9}'];loadHandler&&loadHandler(1, '<div id="spr0_26191713"><div id="spr1_26191713" class="kern slide"><img id="img1_26191713" src="data/img1.png" width="1440px" height="810px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_26191713" class="kern slide"><div id="spr3_26191713" aria-label="一張含有 文字, 羊, 大象 的圖片\
+\
+自動產生的描述" role="group" style="left:0.09px;top:0.051px;"><div id="spr4_26191713"><img id="img0_26191713" src="data/img2.jpg" width="1440" height="810" alt="" style="left:-0.09px;top:-0.051px;"/></div></div></div></div>', '{"s":[]}');})();

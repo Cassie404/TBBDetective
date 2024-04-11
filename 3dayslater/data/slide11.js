@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{12F105EF-5CFB-47EE-8D51-6FF9DBEDE1B9}'];loadHandler&&loadHandler(10, '<div id="spr0_261935b7"><div id="spr1_261935b7" class="kern slide"><img id="img1_261935b7" src="data/img1.png" width="1440px" height="810px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_261935b7" class="kern slide"><div id="spr3_261935b7" aria-label="一張含有 文字, 信, 信封, 靜止的 的圖片\
+\
+自動產生的描述" role="group" style="left:0.09px;top:0.051px;"><div id="spr4_261935b7"><img id="img0_261935b7" src="data/img27.jpg" width="1440" height="810" alt="" style="left:-0.09px;top:-0.051px;"/></div></div></div></div>', '{"s":[]}');})();
