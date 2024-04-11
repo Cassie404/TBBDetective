@@ -20,7 +20,8 @@ submit.onclick = function () {
 
             break;
         case 'ch4os7':
-
+            location.replace("https://cassie404.github.io/tbbdetective.github.io/fivefries/index.html");
+            alert("Day5");
             break;
         case 'f4nt4s':
 
