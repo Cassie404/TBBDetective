@@ -13,7 +13,8 @@ submit.onclick = function () {
             alert("Day2");
             break;
         case 'gr1mmr':
-
+            location.replace("https://cassie404.github.io/tbbdetective.github.io/3dayslater/index.html");
+            alert("Day3");
             break;
         case 'r3v3rs':
 
@@ -31,12 +32,6 @@ submit.onclick = function () {
 
             break;
         case 'kn1ght':
-
-            break;
-        case 'qu3st':
-
-            break;
-        case 'dr3ams':
 
             break;
         default:
