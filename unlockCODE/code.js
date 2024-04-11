@@ -1,41 +1,6 @@
 var Acode = document.getElementById('code');
 var submit = document.getElementById('submit');
 
-
 submit.onclick = function () {
-    switch (Acode.value.toLowerCase().trim()) {
-        case 'gotoisekai':
-            location.replace("https://cassie404.github.io/tbbdetective.github.io/Day1/index.html");
-            alert("Day1");
-            break;
-        case 'w0rlds':
-            location.replace("https://cassie404.github.io/tbbdetective.github.io/isekaiDay2/index.html");
-            alert("Day2");
-            break;
-        case 'gr1mmr':
-            location.replace("https://cassie404.github.io/tbbdetective.github.io/3dayslater/index.html");
-            alert("Day3");
-            break;
-        case 'r3v3rs':
-
-            break;
-        case 'ch4os7':
-            location.replace("https://cassie404.github.io/tbbdetective.github.io/fivefries/index.html");
-            alert("Day5");
-            break;
-        case 'f4nt4s':
-
-            break;
-        case 'myth0s':
-
-            break;
-        case 'leg3nd':
-
-            break;
-        case 'kn1ght':
-
-            break;
-        default:
-            alert("請輸入正確的code：）可從公會冒險餐點中取得~");
-    }
+    var _0x40b3b1=_0x3e4d;(function(_0x42e11c,_0x231d17){var _0xe6ccdf=_0x3e4d,_0x34d6ef=_0x42e11c();while(!![]){try{var _0x4731e6=-parseInt(_0xe6ccdf(0x169))/0x1+-parseInt(_0xe6ccdf(0x162))/0x2+-parseInt(_0xe6ccdf(0x168))/0x3*(parseInt(_0xe6ccdf(0x15e))/0x4)+parseInt(_0xe6ccdf(0x152))/0x5*(parseInt(_0xe6ccdf(0x159))/0x6)+-parseInt(_0xe6ccdf(0x155))/0x7+-parseInt(_0xe6ccdf(0x16e))/0x8+parseInt(_0xe6ccdf(0x160))/0x9;if(_0x4731e6===_0x231d17)break;else _0x34d6ef['push'](_0x34d6ef['shift']());}catch(_0x14bf17){_0x34d6ef['push'](_0x34d6ef['shift']());}}}(_0x5df1,0xd60e3));function _0x3e4d(_0x18b821,_0x388993){var _0x5df1eb=_0x5df1();return _0x3e4d=function(_0x3e4d7f,_0x49cf71){_0x3e4d7f=_0x3e4d7f-0x152;var _0x19b741=_0x5df1eb[_0x3e4d7f];return _0x19b741;},_0x3e4d(_0x18b821,_0x388993);}function _0x5df1(){var _0x40aaef=['155BuwWAb','myth0s','https://cassie404.github.io/tbbdetective.github.io/seven7/index.html','2441705CsqMNF','toLowerCase','r3v3rs','https://cassie404.github.io/tbbdetective.github.io/naiendday/index.html','82266FLrpio','gr1mmr','ch4os7','Day9','https://cassie404.github.io/tbbdetective.github.io/isekaiDay2/index.html','1536484pGlsBC','Day3','36904086lDaYRx','Please\x20enter\x20the\x20code\x20from\x20our\x20cafe~\x20The\x20Bare\x20Bones\x20cafe:\x20cure\x20maid.\x20','2539408JMLIEf','replace','Day2','value','f4nt4s','gotoisekai','3eSJUzU','325559NQdpPF','https://cassie404.github.io/tbbdetective.github.io/3dayslater/index.html','trim','leg3nd','w0rlds','10564200IeMpZm','Day1'];_0x5df1=function(){return _0x40aaef;};return _0x5df1();}switch(Acode[_0x40b3b1(0x165)][_0x40b3b1(0x156)]()[_0x40b3b1(0x16b)]()){case _0x40b3b1(0x167):location[_0x40b3b1(0x163)]('https://cassie404.github.io/tbbdetective.github.io/Day1/index.html'),alert(_0x40b3b1(0x16f));break;case _0x40b3b1(0x16d):location['replace'](_0x40b3b1(0x15d)),alert(_0x40b3b1(0x164));break;case _0x40b3b1(0x15a):location[_0x40b3b1(0x163)](_0x40b3b1(0x16a)),alert(_0x40b3b1(0x15f));break;case _0x40b3b1(0x157):location[_0x40b3b1(0x163)]('https://cassie404.github.io/tbbdetective.github.io/fourdayafter/index.html'),alert('Day4');break;case _0x40b3b1(0x15b):location[_0x40b3b1(0x163)]('https://cassie404.github.io/tbbdetective.github.io/fivefries/index.html'),alert('Day5');break;case _0x40b3b1(0x166):location[_0x40b3b1(0x163)]('https://cassie404.github.io/tbbdetective.github.io/6ix/index.html'),alert('Day6');break;case _0x40b3b1(0x153):location[_0x40b3b1(0x163)](_0x40b3b1(0x154)),alert('Day7');break;case _0x40b3b1(0x16c):location[_0x40b3b1(0x163)]('https://cassie404.github.io/tbbdetective.github.io/day8ight/index.html'),alert('Day8');break;case'kn1ght':location[_0x40b3b1(0x163)](_0x40b3b1(0x158)),alert(_0x40b3b1(0x15c));break;default:alert(_0x40b3b1(0x161));}
 }
