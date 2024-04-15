@@ -10,14 +10,16 @@ var t9 = document.getElementById('t9');
 var t10 = document.getElementById('t10');
 
 t1.onclick = function() {
-    // location.replace("");
-    alert('hi1');
+    location.replace("https://drive.google.com/file/d/1IhDryeK1U8MWGtN1hlCDU5LVGaRegH7M/view?usp=drive_link");
+    alert('Day1');
 }
 t2.onclick = function() {
-    // location.replace("");
+    location.replace("https://drive.google.com/file/d/1UsNe_lHPmF-CPiQGwW0uBPBYVayZu34_/view?usp=drive_link");
+    alert('Day2');
 }
 t3.onclick = function() {
-    // location.replace("");
+    location.replace("https://drive.google.com/file/d/14ITPJt-EmPDuL08LzYGTRXxof4Bmqr-p/view?usp=drive_link");
+    alert('Day3');
 }
 t4.onclick = function() {
     // location.replace("");
