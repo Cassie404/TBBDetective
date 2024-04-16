@@ -22,7 +22,8 @@ t3.onclick = function() {
     alert('Day3');
 }
 t4.onclick = function() {
-    // location.replace("");
+    location.replace("https://drive.google.com/file/d/1lYZJa2j5vND6LLLApUhOSjBypoC7yZZE/view?usp=drive_link");
+    alert('Day4');
 }
 t5.onclick = function() {
     // location.replace("");
