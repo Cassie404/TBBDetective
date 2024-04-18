@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{C4E23F33-8DC0-4BCE-86B5-4D33F77ED118}'];loadHandler&&loadHandler(13, '<div id="spr0_20b66853"><div id="spr1_20b66853" class="kern slide"><img id="img1_20b66853" src="data/img1.png" width="1440px" height="810px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_20b66853" class="kern slide"><div id="spr3_20b66853" aria-label="一張含有 文字, 螢幕擷取畫面 的圖片\
+\
+自動產生的描述" role="group"><div id="spr4_20b66853"><img id="img0_20b66853" src="data/img22.jpg" width="1440" height="810" alt=""/></div></div></div></div>', '{"s":[]}');})();
