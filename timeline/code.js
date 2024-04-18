@@ -30,7 +30,8 @@ t5.onclick = function() {
     alert("Day5");
 }
 t6.onclick = function() {
-    // location.replace("");
+    location.replace("https://drive.google.com/file/d/1IExeF-FUveQOMJNiT96-SldWHM0ESiTS/view?usp=drive_link");
+    alert("Day6");
 }
 t7.onclick = function() {
     // location.replace("");
