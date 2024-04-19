@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{33DFA9CE-9C87-4544-8D1E-75E36672D986}'];loadHandler&&loadHandler(0, '<div id="spr0_264a16f6"><div id="spr1_264a16f6" class="kern slide"><img id="img1_264a16f6" src="data/img1.png" width="1440px" height="810px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_264a16f6" class="kern slide"><div id="spr3_264a16f6" aria-label="一張含有 文字, 藝術, 設計 的圖片\
+\
+自動產生的描述" role="group"><div id="spr4_264a16f6"><img id="img0_264a16f6" src="data/img0.jpg" width="1440" height="810" alt=""/></div></div></div></div>', '{"s":[]}');})();
