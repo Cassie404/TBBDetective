@@ -34,14 +34,12 @@ t6.onclick = function() {
     alert("Day6");
 }
 t7.onclick = function() {
-    // location.replace("");
+    location.replace("https://drive.google.com/file/d/1Ufa6c1KkmZHT3dwYzyjFR4374w0-RyWs/view?usp=drive_link");
+    alert("Day7");
 }
 t8.onclick = function() {
     // location.replace("");
 }
 t9.onclick = function() {
-    // location.replace("");
-}
-t10.onclick = function() {
     // location.replace("");
 }
