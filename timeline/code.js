@@ -38,7 +38,8 @@ t7.onclick = function() {
     alert("Day7");
 }
 t8.onclick = function() {
-    // location.replace("");
+    location.replace("https://drive.google.com/file/d/16MXF0V1kwQ9LQBDTtJgI5GBIAhxQYD3o/view?usp=drive_link");
+    alert("Day8");
 }
 t9.onclick = function() {
     // location.replace("");
