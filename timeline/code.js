@@ -42,5 +42,6 @@ t8.onclick = function() {
     alert("Day8");
 }
 t9.onclick = function() {
-    // location.replace("");
+    location.replace("https://drive.google.com/file/d/1JIp88x_OgYSd2rVVXWbJbxHpE_hiEV44/view?usp=drive_link");
+    alert("Day9");
 }
